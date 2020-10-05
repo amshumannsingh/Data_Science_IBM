@@ -1,5 +1,5 @@
 # Data_Science_IBM
 
-##Editing a file in Github
+## Editing a file in Github
 
 Cool.
